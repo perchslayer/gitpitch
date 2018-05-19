@@ -1,9 +1,9 @@
 {
-  "name": "reveal.js",
-  "version": "3.6.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://revealjs.com",
-  "subdomain": "revealjs",
+  "name": "myGitpitch",
+  "version": "0.1,
+  "description": "my gitpitch,
+  "homepage": "https://perchslayer.github.io/",
+  "subdomain": "gitpitch",
   "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
@@ -11,9 +11,9 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Roland Shield",
+    "email": "roland.shield@perchslayer.com,
+    "web": "http://resume.perchslayer.com"
   },
   "repository": {
     "type": "git",
